@@ -2,7 +2,7 @@
 
 ### **Optimal Design of the Long-Term LEO Almanac by Considering the Atmosphere Drag Effects**
 
-**Authors:** Xueli Guo; Lei Wang; You Li
+**Authors:** Xueli Guo; Lei Wang*; You Li
 
 E-mail:guoxueli@whu.edu.cn
 
@@ -16,8 +16,8 @@ Almanac is an elegant design to help Global Navigation Satellite Systems (GNSS) 
 
 **Related Papers**
 
-- 郭学立, 王磊. 低轨卫星导航增强系统精密星历设计方法研究[J]. 大地测量与地球动力学, 2021, 41(8): 800-805.
-- Guo, X., Wang, L., Fu, W., Suo, Y., Chen, R. & Sun, H. An optimal design of the broadcast ephemeris for LEO navigation augmentation systems. Geo-spatial Information Science 25, 34-46, doi:10.1080/10095020.2021.2017760 (2022).
+- 郭学立, 王磊*. 低轨卫星导航增强系统精密星历设计方法研究[J]. 大地测量与地球动力学, 2021, 41(8): 800-805.
+- Guo, X., Wang, L*., Fu, W., Suo, Y., Chen, R. & Sun, H. An optimal design of the broadcast ephemeris for LEO navigation augmentation systems. Geo-spatial Information Science 25, 34-46, doi:10.1080/10095020.2021.2017760 (2022).
 - **Optimal Design of the Long-Term LEO Almanac by Considering the Atmosphere Drag Effects**
 
 *If you use LEO-Almanac for your academic research, please cite at least one of our related papers.*
